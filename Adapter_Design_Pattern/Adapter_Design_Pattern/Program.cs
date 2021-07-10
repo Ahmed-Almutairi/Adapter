@@ -13,8 +13,12 @@ namespace Adapter_Design_Pattern
         }
     }
 
-    // The Adapter makes the Adaptee's interface compatible with the Target's
-    class Adapter 
+    public interface Client_Interface
+    {
+        string AddTextOnImageThatSupportArabic();
+    }
+
+    class Adapter : Client_Interface
     {
         private readonly Pillow _adaptee;
 
@@ -36,6 +40,9 @@ namespace Adapter_Design_Pattern
         static void Main(string[] args)
         {
             Pillow adaptee = new Pillow();
+
+            Client_Interface target = new Adapter(adaptee);
+            Console.WriteLine("+++++++");
 
             Console.WriteLine("Before using Adapter:");
 

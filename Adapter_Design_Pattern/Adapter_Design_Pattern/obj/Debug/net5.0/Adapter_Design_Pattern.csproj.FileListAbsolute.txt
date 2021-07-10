@@ -13,3 +13,17 @@
 /Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/ref/Adapter_Design_Pattern.dll
 /Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.pdb
 /Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.genruntimeconfig.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.deps.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.runtimeconfig.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.runtimeconfig.dev.json
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/ref/Adapter_Design_Pattern.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/bin/Debug/net5.0/Adapter_Design_Pattern.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.AssemblyInfoInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.AssemblyInfo.cs
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.csproj.CoreCompileInputs.cache
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/ref/Adapter_Design_Pattern.dll
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.pdb
+/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/Debug/net5.0/Adapter_Design_Pattern.genruntimeconfig.cache

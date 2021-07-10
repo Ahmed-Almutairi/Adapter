@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj": {}
+    "/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj": {}
   },
   "projects": {
-    "/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj": {
+    "/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj",
+        "projectUniqueName": "/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj",
         "projectName": "Adapter_Design_Pattern",
-        "projectPath": "/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj",
+        "projectPath": "/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/Adapter_Design_Pattern.csproj",
         "packagesPath": "/Users/ahmed/.nuget/packages/",
-        "outputPath": "/Users/ahmed/Projects/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/",
+        "outputPath": "/Users/ahmed/Desktop/Tuwaiq/second month/DesignPattern/Project/Adapter/Adapter_Design_Pattern/Adapter_Design_Pattern/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ahmed/.config/NuGet/NuGet.Config"
